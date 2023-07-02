@@ -1,0 +1,1 @@
+pub const MAX_ALLOWABLE_WORKERS: usize = 100;
